@@ -1,4 +1,4 @@
-ody:has(#dark-toggle:checked) {
+body:has(#dark-toggle:checked) {
   background-color: #121212;
   color: #ffffff;
 }
