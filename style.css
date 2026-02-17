@@ -1,3 +1,9 @@
+ody:has(#dark-toggle:checked) {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+
 body {
   background: rgb(211,211,211);
   font-family: sans-serif;
